@@ -21,7 +21,7 @@ export const projectData: ProjectPropsType[] = [
       progress: 15,
     },
     {
-      title: 'EducAItion',
+      title: 'Neurolastic',
       description: 'Uses AI to create personalized educational content',
       progress: 5,
       latestUpdate: {
